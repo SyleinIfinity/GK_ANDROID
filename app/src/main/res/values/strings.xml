@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">VanKhanh</string>
+    <string-array name="time_option">
+        <item>6 tháng</item>
+        <item>12 tháng</item>
+        <item>24 tháng</item>
+    </string-array>
 </resources>
